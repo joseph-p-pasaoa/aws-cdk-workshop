@@ -1,7 +1,11 @@
 {
   "name": "aws-cdk-workshop",
   "version": "0.1.0",
-  "author": "Joseph P. Pasaoa",
+  "author": {
+    "name": "Joseph P. Pasaoa",
+    "email": "joseph.p.pasaoa@gmail.com",
+    "url": "https://dev.josephpasaoa.com/"
+  },
   "bin": {
     "aws-cdk-workshop": "bin/aws-cdk-workshop.js"
   },
