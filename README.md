@@ -1,17 +1,19 @@
-# CDK TypeScript Demo Build
+# AWS-CDK (TypeScript) Demo Build
 
 ## Developer: **Joseph P. Pasaoa**
 
-Status: Completed and Deployed
+Status: Completed, Deployed, Destroyed
 
-Services:
+Services Implemented:
 1. CloudFormation
 2. Lambda
 3. API Gateway
 4. S3
+5. DynamoDB
+6. IAM
 
 ---
-## Endpoint Hit Counter
+## Final Endpoint Hit Counter
 
 ![Screenshot](docs/screencap-hitcounter.png)
 
