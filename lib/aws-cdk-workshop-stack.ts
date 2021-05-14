@@ -26,7 +26,7 @@ export class AwsCdkWorkshopStack extends cdk.Stack {
 
     new TableViewer(this, 'ViewHitCounter', {
       title: 'Hello HIts',
-      table: // ???
+      table: helloWithCounter.table
     });
   }
 }
