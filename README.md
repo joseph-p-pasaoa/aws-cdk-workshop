@@ -1,11 +1,30 @@
-# Welcome to your CDK TypeScript project!
+# CDK TypeScript Demo Build
 
-You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`AwsCdkWorkshopStack`)
-which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
+## Developer: **Joseph P. Pasaoa**
+
+Status: Completed and Deployed
+
+Services:
+1. CloudFormation
+2. Lambda
+3. API Gateway
+4. S3
+
+---
+
+## Interface
+
+Live Endpoint Hit Counter: [Click here](https://fuquki36rd.execute-api.us-east-1.amazonaws.com/prod/)
+
+---
+
+## About
+
+This project demonstrates a CDK app with an instance of a stack (`AwsCdkWorkshopStack`).
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
-## Useful commands
+### Useful commands
 
  * `npm run build`   compile typescript to js
  * `npm run watch`   watch for changes and compile
