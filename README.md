@@ -11,10 +11,9 @@ Services:
 4. S3
 
 ---
+## Endpoint Hit Counter
 
-## Interface
-
-Live Endpoint Hit Counter: [Click here](https://fuquki36rd.execute-api.us-east-1.amazonaws.com/prod/)
+![Screenshot](docs/screencap-hitcounter.png)
 
 ---
 
